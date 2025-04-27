@@ -1,0 +1,12 @@
+div{
+    background-color: aquamarine;
+    padding: 10px;
+    padding-top: none;
+    border: 10px solid pink;
+    border-bottom: none;
+    border-radius: 20px;
+
+}
+.h{
+    font-size: 30px;
+}
